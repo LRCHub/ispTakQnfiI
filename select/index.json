@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "センチメンタル・キス",
+  "base_artist": "汐れいら",
+  "createdAt": "2025-12-23T06:00:04.028580Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "センチメンタル・キス",
+      "artist": "RIM",
+      "has_synced": false,
+      "path": "select/01_センチメンタル・キス_RIM.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "センチメンタル・キス",
+      "artist": "汐れいら",
+      "has_synced": false,
+      "path": "select/pl_01_センチメンタル・キス_汐れいら.txt"
+    }
+  ]
+}
