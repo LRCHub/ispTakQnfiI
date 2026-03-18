@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "センチメンタル・キス",
+  "base_track": "センチメンタル・キス (Acoustic ver.)",
   "base_artist": "汐れいら",
-  "createdAt": "2025-12-23T06:01:00.492074Z",
+  "createdAt": "2026-03-18T20:42:05.187167Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -13,12 +13,29 @@
       "path": "select/01_センチメンタル・キス_RIM.txt"
     },
     {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "センチメンタル・キス",
+      "artist": "理芽",
+      "has_synced": false,
+      "path": "select/02_センチメンタル・キス_理芽.txt"
+    },
+    {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "センチメンタル・キス",
       "artist": "汐れいら",
       "has_synced": false,
       "path": "select/pl_01_センチメンタル・キス_汐れいら.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "センチメンタル・キス (Acoustic ver.)",
+      "artist": "汐れいら",
+      "has_synced": false,
+      "path": "select/localdb_01_センチメンタル・キス_(Acoustic_ver.)_汐れいら.txt",
+      "repo_name": "ispTakQnfiI"
     }
   ]
 }
